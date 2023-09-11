@@ -1,0 +1,4 @@
+#ifndef _LSTSDDPERSONNE_H
+#define _LSTSDDPERSONNE_H
+#include "LSTPERSONNEQ.H"
+#endif // _LSTSDDPERSONNE_H

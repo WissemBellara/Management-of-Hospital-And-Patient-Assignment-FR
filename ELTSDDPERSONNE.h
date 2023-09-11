@@ -1,0 +1,4 @@
+#ifndef _ELTSDDPERSONNE_H
+#define _ELTSDDPERSONNE_H
+#include "ELTPERSONNEQ.H"
+#endif // _ELTSDDPERSONNE_H
